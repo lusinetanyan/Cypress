@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "cypress-xpath": "^2.0.1"
+  },
+  "type": "module"
+}
